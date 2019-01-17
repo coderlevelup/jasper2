@@ -11,12 +11,28 @@
         <title>Welcome to CoderLevelUp</title>
         
           <description>&lt;p&gt;Hey! Welcome to CoderLevelUp, it’s great to have you :)&lt;/p&gt;
+
 </description>
         
         <pubDate>Thu, 17 Jan 2019 10:00:00 +0000</pubDate>
         <link>
         /welcome</link>
         <guid isPermaLink="true">/welcome</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>CoderDojo</title>
+        
+          <description>&lt;p&gt;Free coding clubs for young people, practicing coding from first steps through projects.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 17 Jan 2019 10:00:00 +0000</pubDate>
+        <link>
+        /coderdojo</link>
+        <guid isPermaLink="true">/coderdojo</guid>
       </item>
       
     
