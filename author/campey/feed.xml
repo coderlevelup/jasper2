@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/campey/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-01-17T22:08:40+00:00</updated>
+  <updated>2019-01-18T07:03:14+00:00</updated>
   <id>/author/campey/feed.xml</id>
 
   
@@ -32,10 +32,10 @@
 
   
     <entry>
-      <title type="html">CoderDojo</title>
-      <link href="/coderdojo" rel="alternate" type="text/html" title="CoderDojo" />
-      <published>2019-01-17T10:00:00+00:00</published>
-      <updated>2019-01-17T10:00:00+00:00</updated>
+      <title type="html">About CoderDojo</title>
+      <link href="/coderdojo" rel="alternate" type="text/html" title="About CoderDojo" />
+      <published>2019-01-17T23:30:00+00:00</published>
+      <updated>2019-01-17T23:30:00+00:00</updated>
       <id>/coderdojo</id>
       <content type="html" xml:base="/coderdojo">&lt;p&gt;Free coding clubs for young people, practicing coding from first steps through projects.&lt;/p&gt;
 
@@ -94,8 +94,8 @@
     <entry>
       <title type="html">Welcome to CoderLevelUp</title>
       <link href="/welcome" rel="alternate" type="text/html" title="Welcome to CoderLevelUp" />
-      <published>2019-01-17T10:00:00+00:00</published>
-      <updated>2019-01-17T10:00:00+00:00</updated>
+      <published>2019-01-17T22:00:00+00:00</published>
+      <updated>2019-01-17T22:00:00+00:00</updated>
       <id>/welcome</id>
       <content type="html" xml:base="/welcome">&lt;p&gt;Hey! Welcome to CoderLevelUp, it’s great to have you :)&lt;/p&gt;
 
@@ -121,6 +121,66 @@
 
       
         <summary type="html">Hey! Welcome to CoderLevelUp, it’s great to have you :)</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">About CodeRetreat</title>
+      <link href="/coderetreat" rel="alternate" type="text/html" title="About CodeRetreat" />
+      <published>2019-01-17T10:00:00+00:00</published>
+      <updated>2019-01-17T10:00:00+00:00</updated>
+      <id>/coderetreat</id>
+      <content type="html" xml:base="/coderetreat">&lt;p&gt;Day-long event pair programming with new people sharing practices and perfect practice.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coderetreat.org/&quot;&gt;coderetreat.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/search?q=coderetreat%20%40davidcampey&quot;&gt;tweets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Audience&lt;/td&gt;
+      &lt;td&gt;programmers with experience (typically adults, open to all ages, youngest was 12)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Local history&lt;/td&gt;
+      &lt;td&gt;Started 2012, ~20 retreats on Saturdays once a quarter and during office hours.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Supporting companies&lt;/td&gt;
+      &lt;td&gt;afrolabs, krs, impact radius&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Key people&lt;/td&gt;
+      &lt;td&gt;David Campey, Nigel Basel, Werner van Rensburg&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="coderetreat" />
+      
+
+      
+        <summary type="html">Day-long event pair programming with new people sharing practices and perfect practice.</summary>
       
 
       
