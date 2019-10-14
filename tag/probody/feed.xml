@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/probody/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-10-14T14:24:48+00:00</updated>
+  <updated>2019-10-14T14:38:08+00:00</updated>
   <id>/tag/probody/feed.xml</id>
 
   
@@ -34,11 +34,11 @@
     <entry>
       <title type="html">Professional Body</title>
       <link href="/probody" rel="alternate" type="text/html" title="Professional Body" />
-      <published>2019-01-17T10:00:00+00:00</published>
-      <updated>2019-01-17T10:00:00+00:00</updated>
+      <published>2019-10-14T10:00:00+00:00</published>
+      <updated>2019-10-14T10:00:00+00:00</updated>
       <id>/probody</id>
-      <content type="html" xml:base="/probody">&lt;h1 id=&quot;sa-software-developer-professional-body&quot;&gt;SA Software Developer Professional Body&lt;/h1&gt;
-&lt;p&gt;Creation of a Professional Body to allow for better coordination as an industry&lt;/p&gt;
+      <content type="html" xml:base="/probody">&lt;h1 id=&quot;pro-coders&quot;&gt;Pro Coders&lt;/h1&gt;
+&lt;p&gt;Professional body for coders to allow for better coordination as an industry, working with the IITPSA to “re-boot” their offering to coders.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
@@ -48,24 +48,33 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Local history&lt;/td&gt;
-      &lt;td&gt;Initial discusstion to clarify value, goals and process&lt;/td&gt;
+      &lt;td&gt;IITPSA historically perform this function, seek to engege coders&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Supporting bodies&lt;/td&gt;
-      &lt;td&gt;WesGro, Afrolabs&lt;/td&gt;
+      &lt;td&gt;IITPSA, WesGro, Afrolabs&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h2 id=&quot;2019-goals&quot;&gt;2019 Goals&lt;/h2&gt;
-&lt;p&gt;Have a session with 10 corporate employers in tech to kick-off process.
-Build Western Cape support and extend to other provinces.
-Submit paperwork.
+
+&lt;h3 id=&quot;body&quot;&gt;Body&lt;/h3&gt;
+
+&lt;p&gt;Submit paperwork to register professional body.
 First objectives:&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;defining scarce skill to assist immigration, and set the bar for training programmes&lt;/li&gt;
   &lt;li&gt;implement CPD points to encourage engagement of professionals, especially for mentoring&lt;/li&gt;
-&lt;/ol&gt;</content>
+&lt;/ol&gt;
+
+&lt;p&gt;Update: The above goals have effectively been achieved by joining forces tiwh IITPSA. Removing duplication for the win.&lt;/p&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;p&gt;Have a session with 10 corporate employers in tech to kick-off process.&lt;/p&gt;
+
+&lt;p&gt;Update: have been in contact with a number of employers and signed NDAs to get access to their current coder training.&lt;/p&gt;</content>
 
       
       
@@ -86,7 +95,7 @@ First objectives:&lt;/p&gt;
       
 
       
-        <summary type="html">SA Software Developer Professional Body Creation of a Professional Body to allow for better coordination as an industry</summary>
+        <summary type="html">Pro Coders Professional body for coders to allow for better coordination as an industry, working with the IITPSA to “re-boot” their offering to coders.</summary>
       
 
       
