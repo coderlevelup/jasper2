@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/probody/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-10-21T15:49:08+00:00</updated>
+  <updated>2019-10-21T15:53:18+00:00</updated>
   <id>/tag/probody/feed.xml</id>
 
   
@@ -38,24 +38,11 @@
       <updated>2019-10-14T10:00:00+00:00</updated>
       <id>/probody</id>
       <content type="html" xml:base="/probody">&lt;h1 id=&quot;pro-coders&quot;&gt;Pro Coders&lt;/h1&gt;
-&lt;p&gt;Professional body for coders to allow for better coordination as an industry, working with the IITPSA to “re-boot” their offering to coders.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Audience&lt;/td&gt;
-      &lt;td&gt;Professional software developers&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Local history&lt;/td&gt;
-      &lt;td&gt;IITPSA historically perform this function, seek to engege coders&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Supporting bodies&lt;/td&gt;
-      &lt;td&gt;IITPSA, WesGro, Afrolabs&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Professional body for coders to allow for better coordination as an industry, working with the IITPSA to “re-boot” their offering to coders.
+&lt;!--more--&gt;
+| Audience | Professional software developers |
+| Local history | IITPSA historically perform this function, seek to engege coders |
+| Supporting bodies | IITPSA, WesGro, Afrolabs |&lt;/p&gt;
 
 &lt;h2 id=&quot;2019-goals&quot;&gt;2019 Goals&lt;/h2&gt;
 

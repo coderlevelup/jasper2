@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/campey/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-10-21T15:49:08+00:00</updated>
+  <updated>2019-10-21T15:53:18+00:00</updated>
   <id>/author/campey/feed.xml</id>
 
   
@@ -40,6 +40,8 @@
       <content type="html" xml:base="/coderdojo">&lt;p&gt;Free coding clubs for young people, practicing coding from first steps through projects.&lt;/p&gt;
 
 &lt;p&gt;Coder:LevelUp is the regional growth partner for the CoderDojo Foundation.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://coderdojo.com/&quot;&gt;coderdojo.com&lt;/a&gt;&lt;/li&gt;
@@ -86,7 +88,7 @@
       
 
       
-        <summary type="html">Free coding clubs for young people, practicing coding from first steps through projects.</summary>
+        <summary type="html">Free coding clubs for young people, practicing coding from first steps through projects. Coder:LevelUp is the regional growth partner for the CoderDojo Foundation.</summary>
       
 
       
@@ -100,24 +102,11 @@
       <updated>2019-10-14T10:00:00+00:00</updated>
       <id>/probody</id>
       <content type="html" xml:base="/probody">&lt;h1 id=&quot;pro-coders&quot;&gt;Pro Coders&lt;/h1&gt;
-&lt;p&gt;Professional body for coders to allow for better coordination as an industry, working with the IITPSA to “re-boot” their offering to coders.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Audience&lt;/td&gt;
-      &lt;td&gt;Professional software developers&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Local history&lt;/td&gt;
-      &lt;td&gt;IITPSA historically perform this function, seek to engege coders&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Supporting bodies&lt;/td&gt;
-      &lt;td&gt;IITPSA, WesGro, Afrolabs&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Professional body for coders to allow for better coordination as an industry, working with the IITPSA to “re-boot” their offering to coders.
+&lt;!--more--&gt;
+| Audience | Professional software developers |
+| Local history | IITPSA historically perform this function, seek to engege coders |
+| Supporting bodies | IITPSA, WesGro, Afrolabs |&lt;/p&gt;
 
 &lt;h2 id=&quot;2019-goals&quot;&gt;2019 Goals&lt;/h2&gt;
 
@@ -170,9 +159,9 @@ First objectives:&lt;/p&gt;
       <published>2019-01-17T22:00:00+00:00</published>
       <updated>2019-01-17T22:00:00+00:00</updated>
       <id>/welcome</id>
-      <content type="html" xml:base="/welcome">&lt;p&gt;Hey! Welcome to CoderLevelUp, it’s great to have you :)&lt;/p&gt;
-
-&lt;p&gt;Learn more &lt;a href=&quot;/about&quot;&gt;about us&lt;/a&gt;.&lt;/p&gt;</content>
+      <content type="html" xml:base="/welcome">&lt;p&gt;Hey! Welcome to CoderLevelUp, it’s great to have you :)
+&lt;!--more--&gt;
+Learn more &lt;a href=&quot;/about&quot;&gt;about us&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -206,7 +195,8 @@ First objectives:&lt;/p&gt;
       <published>2019-01-17T10:00:00+00:00</published>
       <updated>2019-01-17T10:00:00+00:00</updated>
       <id>/coderetreat</id>
-      <content type="html" xml:base="/coderetreat">&lt;p&gt;Day-long event pair programming with new people sharing practices and perfect practice.&lt;/p&gt;
+      <content type="html" xml:base="/coderetreat">&lt;p&gt;Day-long event pair programming with new people sharing practices and perfect practice.
+&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.coderetreat.org/&quot;&gt;coderetreat.org&lt;/a&gt;&lt;/li&gt;
