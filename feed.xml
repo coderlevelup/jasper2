@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-10-07T07:56:42+00:00</updated><id>/</id><title type="html">CoderLevelUp</title><subtitle>Levelling up our coding community, in Africa.</subtitle><entry><title type="html">Coolest Projects South Africa 2020</title><link href="/coolestprojects2020" rel="alternate" type="text/html" title="Coolest Projects South Africa 2020" /><published>2020-10-01T02:02:00+00:00</published><updated>2020-10-01T02:02:00+00:00</updated><id>/coolestprojects2020</id><content type="html" xml:base="/coolestprojects2020">&lt;p&gt;Coolest Projects is the world’s leading technology fair for young people. This year for the first time in Africa!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-10-13T07:41:20+00:00</updated><id>/</id><title type="html">CoderLevelUp</title><subtitle>Levelling up our coding community, in Africa.</subtitle><entry><title type="html">Coolest Projects South Africa 2020</title><link href="/coolestprojects2020" rel="alternate" type="text/html" title="Coolest Projects South Africa 2020" /><published>2020-10-01T02:02:00+00:00</published><updated>2020-10-01T02:02:00+00:00</updated><id>/coolestprojects2020</id><content type="html" xml:base="/coolestprojects2020">&lt;p&gt;Coolest Projects is the world’s leading technology fair for young people. This year for the first time in Africa!&lt;/p&gt;
 
 &lt;p&gt;Due to the remote world this year, we’re running Coolest Projects South Africa 100% online, so you can submit from anywhere.&lt;/p&gt;
 
@@ -6,21 +6,22 @@
 
 &lt;p&gt;Coder:LevelUp is a South African non-profit focused on growing coding &amp;amp; coders in South Africa and Africa. We have partnered with the &lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry Pi Foundation&lt;/a&gt; to bring Coolest Projects to South Africa.&lt;/p&gt;
 
-&lt;p&gt;Why enter?&lt;/p&gt;
+&lt;h1 id=&quot;why-enter&quot;&gt;Why enter?&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;Certificates: Everyone submitting a valid project will get a printable certificate&lt;/li&gt;
   &lt;li&gt;Win Swag: We’ll be giving away stickers &amp;amp; t-shirts&lt;/li&gt;
   &lt;li&gt;Show-casing your talent: you’ll show off what SA talent can do!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Who can enter Coolest Projects:&lt;/p&gt;
+&lt;h1 id=&quot;who-can-enter-coolest-projects&quot;&gt;Who can enter Coolest Projects:&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;any young person up to the age of 18 (or still in school)&lt;/li&gt;
   &lt;li&gt;from any coding school whether part of a Coder Dojo, Code Club, or school society, learnt with mom/dad/aunty, self-taught&lt;/li&gt;
-  &lt;li&gt;living and learning in Africa!&lt;/li&gt;
+  &lt;li&gt;living and learning in South Africa!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;What sort of projects? Lots! Here’s a &lt;a href=&quot;https://online.coolestprojects.org/gallery&quot;&gt;gallery from the global competition&lt;/a&gt; to get your creative juices flowing.&lt;/p&gt;
+&lt;h1 id=&quot;what-sort-of-projects&quot;&gt;What sort of projects?&lt;/h1&gt;
+&lt;p&gt;Lots! Here’s a &lt;a href=&quot;https://online.coolestprojects.org/gallery&quot;&gt;gallery from the global competition&lt;/a&gt; to get your creative juices flowing.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/global_gallery.png&quot; alt=&quot;Global Gallery&quot; /&gt;&lt;/p&gt;
 
@@ -29,13 +30,22 @@
   &lt;li&gt;visual programming: projects made in scratch, blockly&lt;/li&gt;
   &lt;li&gt;web: a page or site made in HTML, CSS and optionally javascript&lt;/li&gt;
   &lt;li&gt;games: a game you coded on any platform&lt;/li&gt;
-  &lt;li&gt;robotics: projects involving robotics and/or electronics&lt;/li&gt;
-  &lt;li&gt;advanced programming: a project in which you use advanced programming skills&lt;/li&gt;
+  &lt;li&gt;hardware: projects involving robotics and/or electronics&lt;/li&gt;
+  &lt;li&gt;mobile apps: a mobile app project&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Special bonus AfriCan code challenge: ‘Courageous Coders’ submit a scratch project showing how tech will change the future of education. Tick the box when entering and we will submit it to both this competition and the Africa Code Week AfriCan code challenge. We have co-ordinated with ACW to share projects (with your permission) to double the joy.&lt;/p&gt;
+&lt;p&gt;Special bonus &lt;a href=&quot;https://africacodeweek.org/join/african-code-challenge-rules/&quot;&gt;AfriCan code challenge&lt;/a&gt;: ‘Courageous Coders’ submit a scratch project showing how tech will change the future of education. Tick the box when entering and we will submit it to both this competition and the Africa Code Week AfriCan code challenge. We have co-ordinated with ACW to share projects (with your permission) to double the joy.&lt;/p&gt;
 
-&lt;p&gt;When you’re ready, submit your project here:&lt;/p&gt;
+&lt;h1 id=&quot;how-do-i-enter&quot;&gt;How do I enter?&lt;/h1&gt;
+
+&lt;p&gt;Make a short video in which you answer these three questions:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Tell us about your project. Why did you choose to make it?&lt;/li&gt;
+  &lt;li&gt;What did you find difficult while making your project and how did you work it out?&lt;/li&gt;
+  &lt;li&gt;Is there anything you would do differently or you would add if you had more time?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When you’re ready, submit your project details and video here:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://forms.gle/o2eqnmrnMu9PJq8y9&quot;&gt;Coolest Projects 2020 South Africa Entry Form&lt;/a&gt;&lt;/p&gt;</content><author><name>Campey</name></author><category term="Coolest Projects" /><summary type="html">Coolest Projects is the world’s leading technology fair for young people. This year for the first time in Africa! Due to the remote world this year, we’re running Coolest Projects South Africa 100% online, so you can submit from anywhere.</summary></entry><entry><title type="html">A coder’s journey</title><link href="/coderjourney" rel="alternate" type="text/html" title="A coder's journey" /><published>2020-03-15T10:00:00+00:00</published><updated>2020-03-15T10:00:00+00:00</updated><id>/coderjourney</id><content type="html" xml:base="/coderjourney">&lt;h1 id=&quot;a-coders-journey&quot;&gt;A coder’s journey&lt;/h1&gt;
 
