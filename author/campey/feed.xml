@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/campey/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-10-13T12:42:54+00:00</updated>
+  <updated>2020-10-20T07:03:09+00:00</updated>
   <id>/author/campey/feed.xml</id>
 
   
@@ -181,36 +181,52 @@
     </entry>
   
     <entry>
-      <title type="html">Professional Body</title>
-      <link href="/probody" rel="alternate" type="text/html" title="Professional Body" />
+      <title type="html">About devdev</title>
+      <link href="/devdev" rel="alternate" type="text/html" title="About devdev" />
       <published>2019-10-14T10:00:00+00:00</published>
       <updated>2019-10-14T10:00:00+00:00</updated>
-      <id>/probody</id>
-      <content type="html" xml:base="/probody">&lt;h1 id=&quot;pro-coders&quot;&gt;Pro Coders&lt;/h1&gt;
-&lt;p&gt;Professional body for coders to allow for better coordination as an industry, working with the IITPSA to “re-boot” their offering to coders.
+      <id>/devdev</id>
+      <content type="html" xml:base="/devdev">&lt;h1 id=&quot;pro-coders&quot;&gt;Pro Coders&lt;/h1&gt;
+&lt;p&gt;devdev is &lt;strong&gt;dev&lt;/strong&gt;eloping professional &lt;strong&gt;dev&lt;/strong&gt;elopers. A working group with IITPSA (SA professional body for IT professionals).&lt;/p&gt;
+
+&lt;p&gt;Devdev’s primary goal is to making it easier to employ and be employed in this profession.
 &lt;!--more--&gt;
 | Audience | Professional software developers |
 | Local history | IITPSA historically perform this function, seek to engege coders |
 | Supporting bodies | IITPSA, WesGro, Afrolabs |&lt;/p&gt;
 
-&lt;h2 id=&quot;2019-goals&quot;&gt;2019 Goals&lt;/h2&gt;
+&lt;h2 id=&quot;status&quot;&gt;Status&lt;/h2&gt;
 
 &lt;h3 id=&quot;body&quot;&gt;Body&lt;/h3&gt;
 
-&lt;p&gt;Submit paperwork to register professional body.
-First objectives:&lt;/p&gt;
+&lt;p&gt;devdev is a working group with the IITPSA to achieve our objectives by working with their professional body.&lt;/p&gt;
+
+&lt;p&gt;First objectives:&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;defining scarce skill to assist immigration, and set the bar for training programmes&lt;/li&gt;
-  &lt;li&gt;implement CPD points to encourage engagement of professionals, especially for mentoring&lt;/li&gt;
+  &lt;li&gt;defining scarce skill of software development, clarifying the “rungs on the ladder” of professional development:
+    &lt;ul&gt;
+      &lt;li&gt;simplifies hiring processes,&lt;/li&gt;
+      &lt;li&gt;assists immigration, and&lt;/li&gt;
+      &lt;li&gt;sets the bar for training programmes&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;implement CPD points to encourage engagement of professionals:
+    &lt;ul&gt;
+      &lt;li&gt;in conferences and community events&lt;/li&gt;
+      &lt;li&gt;in training courses&lt;/li&gt;
+      &lt;li&gt;especially for mentoring&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Recognise online courses &amp;amp; MooCs&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Update: The above goals have effectively been achieved by joining forces with IITPSA. Removing duplication for the win.&lt;/p&gt;
+&lt;p&gt;Coder:LevelUp have joined forces with the IITPSA to help them make their professional offering engaging to coders at all stages of professional development. This partnership has replaced our previous goal of creating a professional body, neatly removing duplication.&lt;/p&gt;
 
-&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+&lt;h3 id=&quot;partner-engagement&quot;&gt;Partner Engagement&lt;/h3&gt;
 
-&lt;p&gt;Have a session with 10 corporate employers in tech to kick-off process.&lt;/p&gt;
+&lt;p&gt;Having established devdev, we are proceeding to engage with partner organisations to create a representative working group.&lt;/p&gt;
 
-&lt;p&gt;Update: have been in contact with a number of employers and signed NDAs to get access to their current coder training.&lt;/p&gt;</content>
+&lt;p&gt;Is that you? Please get in touch.&lt;/p&gt;</content>
 
       
       
@@ -227,11 +243,11 @@ First objectives:&lt;/p&gt;
       
 
       
-        <category term="probody" />
+        <category term="devdev" />
       
 
       
-        <summary type="html">Pro Coders Professional body for coders to allow for better coordination as an industry, working with the IITPSA to “re-boot” their offering to coders.</summary>
+        <summary type="html">Pro Coders devdev is developing professional developers. A working group with IITPSA (SA professional body for IT professionals). Devdev’s primary goal is to making it easier to employ and be employed in this profession.</summary>
       
 
       
