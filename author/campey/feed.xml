@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/campey/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-10-20T07:03:09+00:00</updated>
+  <updated>2020-10-20T10:11:44+00:00</updated>
   <id>/author/campey/feed.xml</id>
 
   
@@ -186,10 +186,10 @@
       <published>2019-10-14T10:00:00+00:00</published>
       <updated>2019-10-14T10:00:00+00:00</updated>
       <id>/devdev</id>
-      <content type="html" xml:base="/devdev">&lt;h1 id=&quot;pro-coders&quot;&gt;Pro Coders&lt;/h1&gt;
-&lt;p&gt;devdev is &lt;strong&gt;dev&lt;/strong&gt;eloping professional &lt;strong&gt;dev&lt;/strong&gt;elopers. A working group with IITPSA (SA professional body for IT professionals).&lt;/p&gt;
+      <content type="html" xml:base="/devdev">&lt;h1 id=&quot;devdev&quot;&gt;devdev&lt;/h1&gt;
+&lt;p&gt;Is &lt;strong&gt;dev&lt;/strong&gt;eloping professional &lt;strong&gt;dev&lt;/strong&gt;elopers. A working group with IITPSA (SA professional body for IT professionals).&lt;/p&gt;
 
-&lt;p&gt;Devdev’s primary goal is to making it easier to employ and be employed in this profession.
+&lt;p&gt;devdev’s primary goal is making it easier to employ and be employed in this profession.
 &lt;!--more--&gt;
 | Audience | Professional software developers |
 | Local history | IITPSA historically perform this function, seek to engege coders |
@@ -247,7 +247,7 @@
       
 
       
-        <summary type="html">Pro Coders devdev is developing professional developers. A working group with IITPSA (SA professional body for IT professionals). Devdev’s primary goal is to making it easier to employ and be employed in this profession.</summary>
+        <summary type="html">devdev Is developing professional developers. A working group with IITPSA (SA professional body for IT professionals). devdev’s primary goal is making it easier to employ and be employed in this profession.</summary>
       
 
       
